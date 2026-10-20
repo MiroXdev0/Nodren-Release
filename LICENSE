@@ -1,21 +1,41 @@
-MIT License
+# Nodren Proprietary License
+Version 1.0
 
-Copyright (c) 2026 MiroX
+Copyright (c) 2026 Miroslav Aleksandov. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Ownership
+Nodren, including its original source code, binaries, documentation, and other original materials, is protected by applicable intellectual property laws. Rights remain with their respective owners.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 2. Limited License
+Subject to compliance with this license, the copyright holder grants the recipient a limited, personal, non-exclusive, non-transferable, revocable license to download, install, and execute an officially distributed Nodren binary for its intended purpose.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+No other rights are granted.
+
+## 3. Restrictions
+Unless the copyright holder gives prior written permission, the recipient may not, to the extent permitted by applicable law:
+
+- Redistribute, republish, sublicense, rent, or sell Nodren or copies of its binaries.
+- Modify, adapt, translate, or create derivative works of Nodren.
+- Reverse engineer, decompile, or disassemble Nodren, except where applicable law permits or requires such activity.
+- Remove or alter copyright, ownership, or license notices.
+- Use Nodren's name, logos, or trademarks in a way that implies endorsement or authorization.
+
+## 4. Source Code
+This license does not grant access to Nodren's private source code or authorize its disclosure, copying, modification, or redistribution.
+
+## 5. Third-Party Components
+Third-party components included with or used by Nodren remain subject to their respective licenses. Where those licenses grant rights inconsistent with this license, their applicable terms govern those components.
+
+## 6. No Warranty
+To the maximum extent permitted by applicable law, Nodren is provided "AS IS", without warranties of any kind.
+
+## 7. Limitation of Liability
+To the maximum extent permitted by applicable law, the copyright holder shall not be liable for damages arising from the use of Nodren, subject to any liability that cannot legally be excluded or limited.
+
+## 8. Termination
+Rights granted under this license terminate upon a material breach, subject to any applicable notice, cure, and reinstatement requirements imposed by law.
+
+## 9. Governing Law
+The governing law and dispute-resolution provisions must be specified in a separate, legally reviewed version of this license.
+
+For permission requests, contact: miroxdev2026@gmail.com
